@@ -1,4 +1,19 @@
 # new-normal-in-middle-east
+
+Bogazici University
+
+Computer Engineering Department
+
+Fall 2020
+
+CMPE 250
+
+Project 2
+
+Altay Acar
+
+***
+
 A simulation based simple war game set in the world of Lord of the Rings.
 
 War Rules:
