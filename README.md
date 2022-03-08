@@ -8,7 +8,7 @@ Fall 2020
 
 CMPE 250
 
-Project 2
+Project 1
 
 Altay Acar
 
